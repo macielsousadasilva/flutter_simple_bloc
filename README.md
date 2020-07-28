@@ -72,16 +72,16 @@ lib
 ├── models
 └── pages
     ├── example1
-	|    ├── components
-	|    |   └── body.dart
-	|    |
+    |    ├── components
+    |    |   └── body.dart
+    |    |
     |    ├── example-bloc.dart
     |    └── examplescreen1.dart
     |           
     ├── example2
-	|    ├── components
-	|    |   └── body.dart
-	|    |
+    |    ├── components
+    |    |   └── body.dart
+    |    |
     |    ├── example2-bloc.dart
     |    └── examplescreen2.dart   
 ```
